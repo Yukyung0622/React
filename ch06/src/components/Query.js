@@ -12,7 +12,7 @@ const Query = () => {
 
     return (
         <div className='Query'>
-            <h4>Query String</h4>
+            <h4>URL Query</h4>
 
             <p>
                 이름 : {name}<br/>
